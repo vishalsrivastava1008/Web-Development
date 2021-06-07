@@ -1,0 +1,17 @@
+.bg{
+    width: 100%;
+    position:fixed;
+    z-index: -1;
+    opacity: 0.5;}
+.head{
+width: 70%;
+margin: auto;
+padding: 20px;
+text-align: center;
+background-color: rgb(114, 76, 150);
+font-weight: bold;
+}
+.form{
+    margin: auto;
+    width: 70%;
+}
